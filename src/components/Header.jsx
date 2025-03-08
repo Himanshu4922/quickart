@@ -39,7 +39,7 @@ const Header = () => {
       <NavLink to="/">
         <img
           className="MainHeader__logo"
-          src="../../public/images/Quick.png"
+          src="/images/Quick.png"
           alt="my logo"
         />
       </NavLink>
